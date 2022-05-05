@@ -8,7 +8,7 @@
 <br><br>
 
 <div align="center">
- <h4> 🔭 Currently working on Mobile app. using Xamarin Forms </h4>
+ <h4> 🔭 Currently working on school project for my final exam. using Xamarin Forms </h4>
  <h4> 🌱 Currently learning How you can sign-in on a mobile app via an IdentityServer4 with a hybrid flow. </h4>
  <h4> 🤔 I’m looking for help with React Native, Swift, Django, SSH. </h4>
  <h4> 💬 Ask me about Razor Pages, Web API, EF Core, C#, python, Cryptography, General stuff about authorization and authentication. </h4>
