@@ -12,7 +12,6 @@
  <h4> 🌱 Currently learning How you can sign-in on a mobile app via an IdentityServer4 with a hybrid flow. </h4>
  <h4> 🤔 I’m looking for help with React Native, Swift, Django, SSH. </h4>
  <h4> 💬 Ask me about Razor Pages, Web API, EF Core, C#, python, Cryptography, General stuff about authorization and authentication. </h4>
- <h4> ⚡ Fun fact: Programmers aren't IT-Supporters, so don't beg a programmer to fix your PC. </h4>
  <h4> 📫 You can always contact mere here down below: </h4>
 
  <a target="_blank" href="https://www.linkedin.com/in/robert-iulian-zaharia-63758a223/">
