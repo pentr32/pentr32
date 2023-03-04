@@ -9,7 +9,7 @@
 
 <div align="center">
  <h4> 🔭 Currently working as software engineer at Harman International in Bucharest, Romania. </h4>
- <h4> 🌱 Currently learning .NET MAUI and some other stuff. </h4>
+ <h4> 🌱 Currently improving my python skills. </h4>
  <h4> 💬 Feel free to ask anything! </h4>
  <h4> 📫 You can always contact mere here down below: </h4>
 
